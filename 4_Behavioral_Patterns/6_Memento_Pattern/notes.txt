@@ -1,0 +1,2 @@
+A temporary state of your data retaining the info while being converted from one to another
+ex - data transmit over JSON or XML

@@ -1,0 +1,3 @@
+// Used in redux
+// Encapsulates actions or operations as objects
+// Encapsulates the actual function(implementation) from the action it self
